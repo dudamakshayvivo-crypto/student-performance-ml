@@ -1,18 +1,28 @@
-# Student Performance Prediction (ML Project)
+# 📊 Student Performance Prediction (Machine Learning)
 
-This project predicts student marks based on study hours using Linear Regression.
+## 🔍 Overview
+This project predicts student marks based on study hours using a Machine Learning algorithm (Linear Regression).
 
-## Tech Stack
+## 🚀 Features
+- Predict marks based on study hours
+- Uses Linear Regression model
+- Visualizes data using graphs
+- User input for prediction
+
+## 🧠 Tech Stack
 - Python
-- Scikit-learn
 - NumPy
+- Scikit-learn
 - Matplotlib
 
-## Features
-- Predict marks based on input
-- Data visualization
-- Machine learning model
+## 📈 Output
+- Model Accuracy
+- Predicted Marks
+- Graph Visualization
 
-## How to Run
+## ▶️ How to Run
 pip install numpy scikit-learn matplotlib
 python student_model.py
+
+## 📌 Conclusion
+This project demonstrates basic Machine Learning concepts including model training, prediction, and visualization.
